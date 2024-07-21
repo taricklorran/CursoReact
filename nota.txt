@@ -1,3 +1,4 @@
 - criar o projeto: npx create-react-app my-app --template typescript
 - acessa a pasta cd my-app
 - executa o comando npm start
+oo
